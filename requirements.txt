@@ -4,3 +4,4 @@ matplotlib
 sklearn
 networkx
 nltk
+jupyter
